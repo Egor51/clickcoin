@@ -1,6 +1,6 @@
 {
-    "name": "TRAFFIC",
+    "name": "MYTRAFFIC",
     "description": "MYtraffic",
-    "symbol": "MYT",
+    "symbol": "$TRAFFIC",
     "image": "https://raw.githubusercontent.com/Egor51/clickcoin/refs/heads/main/logo.png"
 }
