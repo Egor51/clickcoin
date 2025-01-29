@@ -1,0 +1,23 @@
+{
+    "name": "Luxury Apartment #101",
+    "description": "A high-end luxury apartment in Capital City. This property generates passive income and increases character reputation.",
+    "image": "https://raw.githubusercontent.com/Egor51/clickcoin/refs/heads/main/2133053%20копия.jpg",
+    "attributes": [
+      { "trait_type": "Property Type", "value": "Luxury Apartment" },
+      { "trait_type": "Location", "value": "Downtown District" },
+      { "trait_type": "Size", "value": "200 sqm" },
+      { "trait_type": "Reputation Boost", "value": "+15%" },
+      { "trait_type": "Rarity", "value": "Legendary" },
+      { "trait_type": "Upgradeable", "value": "Yes" },
+      { "trait_type": "Ownership Status", "value": "Owned by Player" },
+      { "trait_type": "Coordinates", "value": "X: 12, Y: 34" }
+    ],
+    "game_data": {
+      "building_level": 1,
+      "upgrade_cost": "1000 Capital Coins",
+      "max_renters": 3,
+      "energy_usage": "50 units/day",
+      "maintenance_cost": "50 Capital Coins/day"
+    }
+  }
+  
