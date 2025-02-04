@@ -1,6 +1,7 @@
 {
   "url": "https://mytraffic.space",
   "name": "Capital city",
-  "description": "Build, trade, and conquer the city’s real estate market",
-  "iconUrl": "https://raw.githubusercontent.com/Egor51/clickcoin/refs/heads/main/logo_game.png"
+  "iconUrl": "https://raw.githubusercontent.com/Egor51/clickcoin/refs/heads/main/logo_game.png",
+   "termsUrl": "https://t.me/my_traffic_group",
+  "privacyUrl": "https://mytraffic.space/privacy"
 }
